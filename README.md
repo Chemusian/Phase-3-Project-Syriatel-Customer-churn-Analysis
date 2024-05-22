@@ -35,31 +35,10 @@ The processes to be undertaken in this project are:
 - Evaluation
 - Conclusion
 
-The columns include;
+  
+Data Description 
 
-state 
-
-account length
-
-area code
-
-phone number 
-
-international plan voice mail plan 
-
-number vmail messages 
-
-total day minutes, calls, charge 
-
-total eve minutes, calls, charge
-
-total night minutes, calls, charge
-
-total intl minutes, calls, charge
-
-customer service calls 
-
-churn - our target
+The data utilized for this project has been sourced from Kaggle. The dataset contains 3333 entries and 21 columns, including information about the state, account length, area code, phone number, international plan, voice mail plan, number of voice mail messages, total day minutes, total day calls, total day charge, total evening minutes, total evening calls, total evening charge, total night minutes, total night calls, total night charge, total international minutes, total international calls, total international charge, customer service calls and churn.
 
 Methodology
 
